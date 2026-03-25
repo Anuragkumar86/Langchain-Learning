@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "type": "module",
+
   "dependencies": {
     "@langchain/classic": "^1.0.24",
     "@langchain/community": "^1.1.24",
@@ -25,5 +26,6 @@
     "@types/node": "^25.5.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
+    
   }
 }
